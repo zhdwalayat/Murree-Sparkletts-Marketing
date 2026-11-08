@@ -16,7 +16,7 @@ About 2,000 people who joined the waitlist, in three groups.
 
 | Group | Who they are | What they care about | Stage |
 |---|---|---|---|
-| sparklett-curious | Beginners new to the brand | What makes Sparklett different, and whether to trust it | Awareness |
+| tea-curious | Beginners new to the brand | What makes Sparklett different, and whether to trust it | Awareness |
 | gift-buyers | People buying for guests, family or an office | Presentation, reliability, an easy way to order | Consideration |
 | daily-drinkers | People who already buy bottled water every day | A premium everyday choice that is simple to keep stocked | Decision |
 
