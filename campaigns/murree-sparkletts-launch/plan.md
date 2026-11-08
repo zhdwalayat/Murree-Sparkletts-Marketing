@@ -42,7 +42,7 @@ Tone: calm, confident and warm. Short sentences. Sign-off: "Stay hydrated, The M
 | Channel | Why | Effort |
 |---|---|---|
 | Email | Owned, free to send, and the waitlist opted in | Low to medium |
-| Website launch page | The one place every email links to (`https://sparklett.example/launch`, placeholder) | Medium |
+| Website launch page | The one place every email links to (`https://murreesparkletts.example/launch`, placeholder) | Medium |
 
 No paid, social or PR work in this plan.
 
