@@ -21,6 +21,12 @@ Sparklett's email marketing project: content and HTML templates, not an applicat
 - `docs/compliance-checklist.md` (CAN-SPAM/GDPR) applies to every send: opt-in, a physical address and an unsubscribe link in the footer, an accurate From name and subject, and stored consent records. Keep the `{{company_address}}` and `{{unsubscribe_url}}` footer in any new template.
 - Email HTML must stay table-based with inline styles. Mail clients ignore external CSS and most modern layout.
 
+## Studio rules
+
+- Write in plain English.
+- Never send email to real people.
+- Ask the user before deleting anything. Never delete, move or overwrite files without explicit permission.
+
 ## Data handling
 
 `.gitignore` excludes `lists/*.csv` and `.env`. Audience files and secrets stay local, so never commit real subscriber data. Segment definitions go in `lists/`, and only `.gitkeep` is tracked there.

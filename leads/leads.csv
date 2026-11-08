@@ -1,0 +1,25 @@
+first_name,last_name,email,group,joined_on,consent
+Ayesha,Khan,ayesha.khan@example.com,everyday-households,2026-09-14,waitlist form
+Bilal,Ahmed,bilal.ahmed@example.com,everyday-households,2026-09-15,waitlist form
+Sana,Malik,sana.malik@example.com,everyday-households,2026-09-17,waitlist form
+Imran,Qureshi,imran.qureshi@example.com,everyday-households,2026-09-19,waitlist form
+Nadia,Hussain,nadia.hussain@example.com,everyday-households,2026-09-21,waitlist form
+Faisal,Rehman,faisal.rehman@example.com,everyday-households,2026-09-25,waitlist form
+Hina,Siddiqui,hina.siddiqui@example.com,everyday-households,2026-09-28,waitlist form
+Usman,Tariq,usman.tariq@example.com,everyday-households,2026-10-02,waitlist form
+Tom,Becker,tom.becker@example.com,gift-and-event-buyers,2026-09-22,waitlist form
+Maria,Lopez,maria.lopez@example.com,gift-and-event-buyers,2026-09-23,waitlist form
+Kamran,Shah,kamran.shah@example.com,gift-and-event-buyers,2026-09-24,waitlist form
+Laila,Noor,laila.noor@example.com,gift-and-event-buyers,2026-09-26,waitlist form
+James,Carter,james.carter@example.com,gift-and-event-buyers,2026-09-29,waitlist form
+Zainab,Farooq,zainab.farooq@example.com,gift-and-event-buyers,2026-10-01,waitlist form
+Omar,Sheikh,omar.sheikh@example.com,gift-and-event-buyers,2026-10-04,waitlist form
+Priya,Nair,priya.nair@example.com,gift-and-event-buyers,2026-10-06,waitlist form
+Hamza,Iqbal,hamza.iqbal@example.com,active-lifestyle,2026-09-16,waitlist form
+Sofia,Rossi,sofia.rossi@example.com,active-lifestyle,2026-09-18,waitlist form
+Daniyal,Butt,daniyal.butt@example.com,active-lifestyle,2026-09-20,waitlist form
+Mehwish,Ali,mehwish.ali@example.com,active-lifestyle,2026-09-27,waitlist form
+Noah,Williams,noah.williams@example.com,active-lifestyle,2026-09-30,waitlist form
+Rabia,Javed,rabia.javed@example.com,active-lifestyle,2026-10-03,waitlist form
+Talha,Mirza,talha.mirza@example.com,active-lifestyle,2026-10-05,waitlist form
+Anika,Das,anika.das@example.com,active-lifestyle,2026-10-08,waitlist form
