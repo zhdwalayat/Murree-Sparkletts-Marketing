@@ -7,6 +7,6 @@
 
 ## Groups
 
-- `everyday-households`: families and homes who want clean, fresh drinking water every day.
-- `gift-and-event-buyers`: people buying for gifts, offices, weddings or events.
-- `active-lifestyle`: people who care about hydration, fitness and a healthy routine.
+- `sparklett-curious`: beginners who are new to Sparklett and want to know what makes it different.
+- `gift-buyers`: people buying Sparklett as a gift, for guests or for an office.
+- `daily-drinkers`: people who already drink bottled water every day and want a premium everyday choice.
