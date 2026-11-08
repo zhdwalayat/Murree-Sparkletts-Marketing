@@ -36,6 +36,21 @@ The Murree Sparkletts email marketing project: content and HTML templates, not a
 - `assignment.md` is the user's reference plan (the FDE-102 lab, adapted with Murree Sparkletts as the use case instead of the sample brand Kettlebird Tea). It is excluded from git through `.git/info/exclude`. Never stage or commit it, and don't `git add -A` without checking it is still ignored.
 - The git remote is the private repo `zhdwalayat/Murree-Sparkletts-Marketing`. The working branch is `master`.
 
+## Folders
+
+- `brand/`: the Murree Sparkletts voice guide and product facts.
+- `leads/`: made-up practice leads, with their own rules in `leads/CLAUDE.md`.
+- `campaigns/`: one folder per campaign. The current one is `murree-sparkletts-launch/`.
+- `notes/`: working notes.
+- `.claude/rules/emails.md`: the rule for every email file under `campaigns/**/emails/`.
+- `templates/`, `assets/`, `docs/`, `reports/`, `lists/`: shared layouts, images, strategy and compliance, results, and segment definitions.
+
+Everything we write is for Murree Sparkletts. Never use another brand's name, such as the assignment's sample brand.
+
 ## Brand voice
 
 @brand/voice.md
+
+## Product facts
+
+@brand/products.md

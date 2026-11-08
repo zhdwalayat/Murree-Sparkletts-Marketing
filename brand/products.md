@@ -1,6 +1,6 @@
 # Murree Sparkletts: product facts (draft)
 
-Source: https://murreebrewery.com/sparkletts/ (read 2026-11-05). This will become `brand/products.md` in the studio repo.
+Source: https://murreebrewery.com/sparkletts/ (read 2026-11-05).
 
 ## About
 - Premium bottled drinking water, sourced from the foothills of the Himalayas.
