@@ -5,7 +5,7 @@ Hello {{first_name}},
 
 Hydration fits into every part of your day.
 
-Murree Sparkletts comes in sizes from 330 ml to 19 L. Choose a 330 ml bottle to carry with you, or the 19 L Big Bottle for your home or office dispenser. There are also 500 ml, 1.5 L and 12 L packs, and an Alkaline option.
+Murree Sparkletts comes in sizes from 330 ml to 19 L. Choose a 330 ml bottle to carry with you, or the 19 L Big Bottle for your home or office dispenser. There are also 500 ml, 750 ml, 1.5 L and 12 L packs, and an Alkaline option, with a pH of 8.0 in the 500 ml bottle.
 
 Whether the water is for you, your family or a guest, it is fresh, crisp Himalayan water.
 

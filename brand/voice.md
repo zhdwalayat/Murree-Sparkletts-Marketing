@@ -22,18 +22,17 @@ cheap, discount, bargain, chemical, medicine, cure, detox, miracle, "the best in
 - Purity or "contaminant-free" claims without a lab report to back them. When we make one, name the lab and the report date.
 - "The best", "number one" or "one of the best tested" without proof. Say what was tested and by whom instead.
 - Any comparison with named competitor brands.
-- ISO 9001 or HACCP unless the certificates are current.
+- ISO 9001 or HACCP, except as the official Sparkletts page states it: "ISO 9001 & HACCP certified". Do not add claims of "guaranteed purity" from that page without a lab report.
 - "Pure Himalayan" for anything other than water sourced from the Himalayan foothills.
 
 ## 5. How we sign off
 
 **Stay hydrated,**
 The Murree Sparkletts Team
-info@murreebrewery.com · 051-5567041-47 (from the website, to be confirmed)
+info@murreebrewery.com · 051-5567041-47 (confirmed on murreebrewery.com, 2026-11-08)
 
 ## Open items
 
 - Audience: not decided yet. Ask again before the campaign plan.
 - Call to action: to be decided at a later stage.
-- Contact details for the sign-off: website details added, still to be confirmed.
 - Product facts are in `brand/products.md`. Prices, delivery, mineral content and lab results are still missing.

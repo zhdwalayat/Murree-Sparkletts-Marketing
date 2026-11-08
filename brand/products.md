@@ -13,11 +13,12 @@ Source: https://murreebrewery.com/sparkletts/ (read 2026-11-05).
 |---|---|
 | 330 ml | |
 | 500 ml | |
-| 750 ml | one product link says 770 ml, so this needs checking |
+| 750 ml | glass bottle. The product title says 750 ml, but its link ends in "770-ml". Site checked 2026-11-08: treat as 750 ml, confirm with client |
+| 5 L | listed on the home page only, not on the Sparkletts page. Needs checking |
 | 1.5 L | |
 | 12 L | |
 | 19 L "Big Bottle" | home/office dispenser bottle (the image file is named 19l) |
-| Alkaline | size not stated |
+| Alkaline | home page says "a pH of 8.0" for the 500 ml bottle. The Sparkletts page gives no pH or minerals. Approved for emails as stated on the official site: "pH of 8.0 in the 500 ml bottle". No minerals or health claims |
 
 ## Contact
 - 3-National Park Road, Chaklala Cantt, Rawalpindi

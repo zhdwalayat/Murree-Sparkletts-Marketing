@@ -7,7 +7,7 @@ Good water starts with where it comes from.
 
 Murree Sparkletts is sourced from the foothills of the Himalayas. We fill it at our plant in Hattar, KPK.
 
-The plant has been owned by Tops Food and Beverages since 2011. In 2015 we added new filling lines.
+The plant has been owned by Tops Food and Beverages since 2011. In 2015 we added new filling lines. We are ISO 9001 and HACCP certified.
 
 That is our story: a Himalayan source, a plant in Hattar and a calm, clean taste.
 
