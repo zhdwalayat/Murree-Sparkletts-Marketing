@@ -27,6 +27,20 @@ The Murree Sparkletts email marketing project: content and HTML templates, not a
 - Never send email to real people.
 - Ask the user before deleting anything. Never delete, move or overwrite files without explicit permission.
 
+## Email file rules
+
+These apply to every email file in any campaign (`campaigns/**/emails/*.md`). Each email file must:
+
+1. Start with a line `Subject: ...` of 50 characters or fewer, then a line `Preview: ...` of 90 characters or fewer.
+2. Greet the reader with `{{first_name}}`.
+3. Have exactly one main link, written as `[Button text](https://murreesparkletts.example/launch)`. The URL is a placeholder until the real launch page is confirmed.
+4. End with the sign-off from `brand/voice.md`, then this two-line footer as plain text, not inside a code block:
+
+You're getting this because you joined the Murree Sparkletts waitlist.
+Murree Sparkletts, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+
+The same rules also live in `.claude/rules/emails.md`, which the assignment uses so they load only when email files are open. If one changes, change the other.
+
 ## Data handling
 
 `.gitignore` excludes `lists/*.csv` and `.env`. Audience files and secrets stay local, so never commit real subscriber data. Segment definitions go in `lists/`, and only `.gitkeep` is tracked there.
