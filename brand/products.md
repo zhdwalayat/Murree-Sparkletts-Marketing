@@ -28,7 +28,7 @@ Source: https://murreebrewery.com/sparkletts/ (read 2026-11-05).
 ## Missing, to get from the client
 - Prices per pack, and the delivery or subscription offer
 - Delivery cities and how customers order (phone, WhatsApp, distributors)
-- Mineral content and pH (especially for Alkaline)
+- Mineral content (pH 8.0 for the 500 ml Alkaline is already on the official site)
 - Lab or PSQCA test results that back any purity claim
 - High-resolution logo and product photos (the website images are small webp files)
 - The official brand font (name and font files), so emails and the website match the brand

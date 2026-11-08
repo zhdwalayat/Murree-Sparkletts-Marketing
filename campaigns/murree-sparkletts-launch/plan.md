@@ -30,10 +30,10 @@ Supporting messages, using only facts from `brand/voice.md`:
 
 1. **Where it comes from.** Sourced from the Himalayan foothills.
 2. **Where it is filled.** Filled at our plant in Hattar, KPK, owned by Tops Food and Beverages since 2011, with new filling lines added in 2015.
-3. **How it is made.** ISO 9001 and HACCP certified **(confirm both certificates are current before this is sent)**.
+3. **How it is made.** ISO 9001 and HACCP certified, as stated on the official Sparkletts page (murreebrewery.com, checked 2026-11-08).
 4. **How it feels.** Fresh, crisp, clean. Hydration with ease and beauty.
 
-Products we can mention (from `brand/products.md`): 330 ml, 500 ml, 750 ml glass (size to be checked, one link says 770 ml), 1.5 L, 12 L, the 19 L "Big Bottle" for home and office dispensers, and Alkaline. Give no prices, and no mineral or pH details, until the client supplies them.
+Products we can mention (from `brand/products.md`): 330 ml, 500 ml, 750 ml glass (the official page title says 750 ml, one link says 770 ml), 1.5 L, 12 L, the 19 L "Big Bottle" for home and office dispensers, and Alkaline (pH of 8.0 in the 500 ml bottle, as stated on the official site). Give no prices and no mineral details until the client supplies them.
 
 Tone: calm, confident and warm. Short sentences. Sign-off: "Stay hydrated, The Murree Sparkletts Team".
 
@@ -87,7 +87,7 @@ Small, and email only. The main costs are the team's time and the sending tool. 
 ## 10. Next Steps
 
 1. Confirm the offer, the launch page and the final target.
-2. Confirm the ISO 9001 and HACCP certificates are current.
-3. Confirm the customer-care contact in the sign-off.
+2. ISO 9001 and HACCP: now taken from the official page. Keep the certificates on file for the client.
+3. Customer-care contact in the sign-off: confirmed on the official site (2026-11-08).
 4. Get from the client: prices and the delivery or subscription offer, delivery cities and how people order, lab or PSQCA results for any purity claim, and the official brand font.
 5. Write the emails (Step 6), then review them in a fresh session.
