@@ -25,6 +25,7 @@ The Murree Sparkletts email marketing project: content and HTML templates, not a
 
 - Write in plain English.
 - Never send email to real people.
+- Sending through Resend (the `resend` server in `.mcp.json`) is allowed only to Resend's test addresses (ending in `@resend.dev`) and to the user's own email address, which is kept in the `MY_EMAIL` setting in `.claude/settings.local.json`. A guard (`.claude/hooks/send-guard.mjs`, added in the next step) will enforce this.
 - Ask the user before deleting anything. Never delete, move or overwrite files without explicit permission.
 
 ## Email file rules
