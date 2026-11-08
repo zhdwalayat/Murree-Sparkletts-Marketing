@@ -33,6 +33,8 @@ Supporting messages, using only facts from `brand/voice.md`:
 3. **How it is made.** ISO 9001 and HACCP certified **(confirm both certificates are current before this is sent)**.
 4. **How it feels.** Fresh, crisp, clean. Hydration with ease and beauty.
 
+Products we can mention (from `brand/products.md`): 330 ml, 500 ml, 750 ml glass (size to be checked, one link says 770 ml), 1.5 L, 12 L, the 19 L "Big Bottle" for home and office dispensers, and Alkaline. Give no prices, and no mineral or pH details, until the client supplies them.
+
 Tone: calm, confident and warm. Short sentences. Sign-off: "Stay hydrated, The Sparklett Team".
 
 ## 4. Channels
@@ -62,8 +64,8 @@ Dependencies: the launch page must be live and the offer confirmed before Email 
 - Four emails (must-have), in `campaigns/sparklett-launch/emails/`.
 - One version of each email per group (must-have).
 - Launch page on the website (must-have).
-- Customer-care contact for the sign-off (must-have, still open in `brand/voice.md`).
-- Product photos in `assets/images/` (nice-to-have).
+- Customer-care contact for the sign-off (must-have). The website lists info@murreebrewery.com and 051-5567041-47, now in `brand/voice.md` **(confirm)**.
+- Product photos in `assets/images/` (nice-to-have). The website images are small placeholders, so high-resolution photos are needed from the client.
 
 ## 7. Success Metrics
 
@@ -86,5 +88,6 @@ Small, and email only. The main costs are the team's time and the sending tool. 
 
 1. Confirm the offer, the launch page and the final target.
 2. Confirm the ISO 9001 and HACCP certificates are current.
-3. Add customer-care contact details to the sign-off.
-4. Write the emails (Step 6), then review them in a fresh session.
+3. Confirm the customer-care contact in the sign-off.
+4. Get from the client: prices and the delivery or subscription offer, delivery cities and how people order, and lab or PSQCA results for any purity claim.
+5. Write the emails (Step 6), then review them in a fresh session.

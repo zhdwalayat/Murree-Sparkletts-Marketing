@@ -29,10 +29,11 @@ cheap, discount, bargain, chemical, medicine, cure, detox, miracle, "the best in
 
 **Stay hydrated,**
 The Sparklett Team
-[customer-care contact: to be added]
+info@murreebrewery.com · 051-5567041-47 (from the website, to be confirmed)
 
 ## Open items
 
 - Audience: not decided yet. Ask again before the campaign plan.
 - Call to action: to be decided at a later stage.
-- Contact details for the sign-off.
+- Contact details for the sign-off: website details added, still to be confirmed.
+- Product facts are in `brand/products.md`. Prices, delivery, mineral content and lab results are still missing.
