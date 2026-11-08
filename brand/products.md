@@ -34,6 +34,8 @@ Source: https://murreebrewery.com/sparkletts/ (read 2026-11-05).
 - The official brand font (name and font files), so emails and the website match the brand
 
 ## Images on the website (placeholders for development only)
+Local copies (downloaded 2026-11-08) are in `assets/images/` as `sparkletts-<name>.webp`. Cite them from there. They are webp, 800x845 for packs and 93x90 for the logo, so convert to PNG or JPG and get higher-resolution files before the real send.
+
 - Logo: https://murreebrewery.com/wp-content/uploads/2024/04/Sparkletts-Logo.webp
 - 19 L: https://murreebrewery.com/wp-content/uploads/2026/04/19l.webp
 - 12 L: https://murreebrewery.com/wp-content/uploads/2025/04/12-Liter.webp
