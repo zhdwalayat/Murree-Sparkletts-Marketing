@@ -1,15 +1,15 @@
 Subject: Made for your routine
-Preview: Fresh, crisp water for every day, every gift and every guest.
+Preview: Fresh, crisp water for every day, every home and every guest.
 
 Hello {{first_name}},
 
 Hydration fits into every part of your day.
 
-Murree Sparkletts comes in a range of sizes. Choose a 330 ml bottle to carry with you, or the 19 L Big Bottle for your home or office dispenser. There are also 500 ml, 1.5 L and 12 L packs, and an Alkaline option.
+Murree Sparkletts comes in sizes from 330 ml to 19 L. Choose a 330 ml bottle to carry with you, or the 19 L Big Bottle for your home or office dispenser. There are also 500 ml, 1.5 L and 12 L packs, and an Alkaline option.
 
-Whether the water is for you, your family or a guest, it brings the same fresh, crisp taste.
+Whether the water is for you, your family or a guest, it is fresh, crisp Himalayan water.
 
-See the full range on our launch page.
+See the range of sizes on our launch page.
 
 [Explore the range](https://murreesparkletts.example/launch)
 

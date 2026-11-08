@@ -1,5 +1,5 @@
 Subject: From the foothills to Hattar
-Preview: See where Murree Sparkletts water begins, and where we fill every bottle.
+Preview: See where Murree Sparkletts water begins, and where we fill our water.
 
 Hello {{first_name}},
 
@@ -9,7 +9,7 @@ Murree Sparkletts is sourced from the foothills of the Himalayas. We fill it at 
 
 The plant has been owned by Tops Food and Beverages since 2011. In 2015 we added new filling lines.
 
-That is our story: a Himalayan source, a careful plant and a calm, clean taste.
+That is our story: a Himalayan source, a plant in Hattar and a calm, clean taste.
 
 Read more on our launch page.
 

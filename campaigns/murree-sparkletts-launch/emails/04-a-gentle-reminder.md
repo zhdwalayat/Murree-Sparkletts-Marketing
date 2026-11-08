@@ -3,9 +3,9 @@ Preview: Our launch page is here whenever you are ready.
 
 Hello {{first_name}},
 
-A quick note, in case the last few weeks got busy.
+A quick note, in case this got buried in your inbox.
 
-Our launch page is still here, with the story of Murree Sparkletts and the full range of sizes. Look around whenever it suits you.
+Our launch page is still here, with the story of Murree Sparkletts and the range of sizes. Look around whenever it suits you.
 
 If you have any questions, write to us. We are happy to help.
 

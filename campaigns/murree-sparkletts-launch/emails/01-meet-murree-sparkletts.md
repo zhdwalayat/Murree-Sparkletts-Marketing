@@ -9,7 +9,7 @@ Murree Sparkletts is premium drinking water, sourced from the Himalayan foothill
 
 Our line says it simply: Drink Healthy, Live Healthy.
 
-Our launch page is now open. Take a look and see what is new.
+Our launch page is now open, with our story and our range of sizes.
 
 [Discover Murree Sparkletts](https://murreesparkletts.example/launch)
 
