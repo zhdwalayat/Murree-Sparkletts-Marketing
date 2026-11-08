@@ -30,6 +30,7 @@ Source: https://murreebrewery.com/sparkletts/ (read 2026-11-05). This will becom
 - Mineral content and pH (especially for Alkaline)
 - Lab or PSQCA test results that back any purity claim
 - High-resolution logo and product photos (the website images are small webp files)
+- The official brand font (name and font files), so emails and the website match the brand
 
 ## Images on the website (placeholders for development only)
 - Logo: https://murreebrewery.com/wp-content/uploads/2024/04/Sparkletts-Logo.webp

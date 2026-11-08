@@ -89,5 +89,5 @@ Small, and email only. The main costs are the team's time and the sending tool. 
 1. Confirm the offer, the launch page and the final target.
 2. Confirm the ISO 9001 and HACCP certificates are current.
 3. Confirm the customer-care contact in the sign-off.
-4. Get from the client: prices and the delivery or subscription offer, delivery cities and how people order, and lab or PSQCA results for any purity claim.
+4. Get from the client: prices and the delivery or subscription offer, delivery cities and how people order, lab or PSQCA results for any purity claim, and the official brand font.
 5. Write the emails (Step 6), then review them in a fresh session.

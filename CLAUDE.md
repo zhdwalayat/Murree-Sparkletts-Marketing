@@ -34,7 +34,7 @@ The Murree Sparkletts email marketing project: content and HTML templates, not a
 ## Local conventions
 
 - `assignment.md` is the user's reference plan (the FDE-102 lab, adapted with Murree Sparkletts as the use case instead of the sample brand Kettlebird Tea). It is excluded from git through `.git/info/exclude`. Never stage or commit it, and don't `git add -A` without checking it is still ignored.
-- The git remote is the private repo `zhdwalayat/murree-sparkletts-marketing`. The working branch is `master`.
+- The git remote is the private repo `zhdwalayat/Murree-Sparkletts-Marketing`. The working branch is `master`.
 
 ## Brand voice
 
