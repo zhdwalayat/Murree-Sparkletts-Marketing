@@ -7,6 +7,6 @@
 
 ## Groups
 
-- `tea-curious`: beginners who are new to Sparklett and want to know what makes it different.
-- `gift-buyers`: people buying Sparklett as a gift, for guests or for an office.
+- `tea-curious`: beginners who are new to Murree Sparkletts and want to know what makes it different.
+- `gift-buyers`: people buying Murree Sparkletts as a gift, for guests or for an office.
 - `daily-drinkers`: people who already drink bottled water every day and want a premium everyday choice.

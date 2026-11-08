@@ -1,6 +1,6 @@
-# Sparklett Brand Voice
+# Murree Sparkletts Brand Voice
 
-**Brand idea:** Sparklett is premium Himalayan drinking water and the lifestyle that goes with it. Line: *Drink Healthy, Live Healthy.* Website tagline: "The new style of sensation with Ease & Beauty."
+**Brand idea:** Murree Sparkletts is premium Himalayan drinking water and the lifestyle that goes with it. Line: *Drink Healthy, Live Healthy.* Website tagline: "The new style of sensation with Ease & Beauty."
 
 **Facts we can state:** sourced from the Himalayan foothills, filled at the plant in Hattar, KPK, owned by Tops Food and Beverages since 2011, new filling lines added in 2015, ISO 9001 and HACCP certified.
 
@@ -28,7 +28,7 @@ cheap, discount, bargain, chemical, medicine, cure, detox, miracle, "the best in
 ## 5. How we sign off
 
 **Stay hydrated,**
-The Sparklett Team
+The Murree Sparkletts Team
 info@murreebrewery.com · 051-5567041-47 (from the website, to be confirmed)
 
 ## Open items

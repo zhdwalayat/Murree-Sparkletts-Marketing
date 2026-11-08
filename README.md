@@ -1,6 +1,6 @@
-# Sparklett Email Marketing
+# Murree Sparkletts Email Marketing
 
-Email marketing project for Sparklett.
+Email marketing project for Murree Sparkletts.
 
 ## Structure
 - `templates/`  reusable HTML email templates

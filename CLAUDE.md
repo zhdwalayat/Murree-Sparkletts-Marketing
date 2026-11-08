@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-Sparklett's email marketing project: content and HTML templates, not an application. There is no build, lint, or test tooling, and no package manifest. Emails are static HTML with `{{placeholder}}` tokens that are filled by whatever sends them.
+The Murree Sparkletts email marketing project: content and HTML templates, not an application. There is no build, lint, or test tooling, and no package manifest. Emails are static HTML with `{{placeholder}}` tokens that are filled by whatever sends them.
 
 ## Workflow (from README.md)
 
@@ -33,7 +33,7 @@ Sparklett's email marketing project: content and HTML templates, not an applicat
 
 ## Local conventions
 
-- `assignment.md` is the user's reference plan (the FDE-102 lab, adapted with Sparklett as the use case instead of the sample brand Kettlebird Tea). It is excluded from git through `.git/info/exclude`. Never stage or commit it, and don't `git add -A` without checking it is still ignored.
+- `assignment.md` is the user's reference plan (the FDE-102 lab, adapted with Murree Sparkletts as the use case instead of the sample brand Kettlebird Tea). It is excluded from git through `.git/info/exclude`. Never stage or commit it, and don't `git add -A` without checking it is still ignored.
 - The git remote is the private repo `zhdwalayat/sparklett-marketing`. The working branch is `master`.
 
 ## Brand voice

@@ -3,7 +3,7 @@
 - Audience: New subscribers (trigger: on signup)
 - Send: Immediately after signup
 - Subject options:
-  - A: Welcome to Sparklett ✨
+  - A: Welcome to Murree Sparkletts ✨
   - B: You're in! Here's what to expect
 - Preview text: Thanks for joining - a little something inside.
 - CTA: "Shop now" -> {{cta_url}}
