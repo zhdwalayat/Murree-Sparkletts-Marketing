@@ -1,4 +1,4 @@
-Subject: Meet Murree Sparkletts
+Subject: Meet water from the Himalayan foothills
 Preview: Premium Himalayan drinking water, now open to our waitlist.
 
 Hello {{first_name}},
